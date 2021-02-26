@@ -1,5 +1,5 @@
 ---
-title: Illegale hovedkvarter
+title: Hemmelige rum
 permalink: /hemmelige-rum/
 header:
   overlay_color: "#p0W9kDwB"
