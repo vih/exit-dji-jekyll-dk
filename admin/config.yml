@@ -5,7 +5,7 @@ backend:
   repo: vih/exit-dji-jekyll-dk
   branch: master # Branch to update (optional; defaults to master)
   api_root: https://api.github.com
-  site_domain: dji-exit.netlify.app
+  site_domain: exit-dji.netlify.app
   base_url: https://api.netlify.com
   auth_endpoint: auth
   cms_label_prefix: netlify-cms/
