@@ -23,12 +23,12 @@ sidebar:
     nav: songs
 ---
 
+{% include video provider="youtube" id="5mrLexcY1b0" %}
+
 ## Teksten
 
 **Tekst**: William O. Hansen  
 **Musik**: Karl-Olav Dahlbæk
-
-{% include audio src="https://drive.google.com/uc?id=1fHDDrtxuhyxxw_xd0OLUAga5Ln5Le9Q3" %}
 
 Frem i takt unge stål  
 fra Den Jyske Idrætsskole.  
@@ -69,19 +69,9 @@ den om Jyllands jord vil tale,
 og i disse skove, dale,  
 vil vi mødes nok engang.
 
-## Video
-
-{% include video provider="youtube" id="5mrLexcY1b0" %}
-
 ## Noder
 
 [<i class='far fa-file-pdf'></i> Download noder som PDF](https://drive.google.com/uc?id=1-WnldtjlnqypqrP9v3Xsq39cWkdG-Zdj){: .btn .btn--danger .btn--primary .btn--large}
-
-## Om forfatterne og komponisten
-
-William O. Hansen og Karl-Olav Dahlbæk var elever på elevholdet i 1948-49.
-
-{% include figure image_path="https://drive.google.com/uc?id=1V2jRCeVItexqKrnzMEzW441fIm76zIhZ" caption="Elevbillede med Vinterholdet 1948 og 1949 med forfatter og komponist" alt="Vinterholdet 1948-49" %}
 
 ## Køb eller stream sangen
 
