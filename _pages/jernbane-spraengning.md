@@ -2,7 +2,6 @@
 last_modified_at: 2021-03-09T09:20:16+01:00
 excerpt: Den oprindelige skolesang på Den Jyske Idrætsskole skrevet i 1949 af
   William O. Hansen og Karl-Olav Dahlbæk.
-toc: true
 title: Jernbanesprængning
 permalink: /jernbanespraengning/
 layout: single
@@ -13,5 +12,6 @@ header:
   caption: Jernbanesprængning
 category: []
 tags: []
+toc: true
 ---
-Include video
+{% include video provider="youtube" id="_RGY66ykSys" %}
