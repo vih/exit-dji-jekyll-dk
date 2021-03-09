@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Hemmelige rum
 permalink: /hemmelige-rum/
 header:
