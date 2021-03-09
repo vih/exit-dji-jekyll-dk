@@ -14,4 +14,4 @@ header:
 category: []
 tags: []
 ---
-{% include video provider="youtube" id="lb_HsCv7goI" %}
+Include video
