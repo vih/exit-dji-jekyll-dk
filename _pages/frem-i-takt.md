@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Frem i takt (1949)
 permalink: /frem-i-takt/
 author: william_hansen
