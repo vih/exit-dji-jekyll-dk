@@ -43,9 +43,9 @@ collections:
         collapsed: true
         required: false
         fields:
-          - {label: "Overlay Image", name: "overlay_image", widget: "string"}
-          - {label: "Teaser Image", name: "teaser", widget: "string"}
-          - {label: "Caption", name: "caption", widget: "string"}
+          - {label: "Overlay Image", name: "overlay_image", widget: "string", required: false}
+          - {label: "Teaser Image", name: "teaser", widget: "string", required: false}
+          - {label: "Caption", name: "caption", widget: "string", required: false}
           - label: Actions
             name: actions
             widget: list
@@ -96,17 +96,17 @@ collections:
         collapsed: true
         required: false
         fields:
-          - {label: "Overlay Image", name: "overlay_image", widget: "string"}
-          - {label: "Teaser Image", name: "teaser", widget: "string"}
-          - {label: "Caption", name: "caption", widget: "string"}
+          - {label: "Overlay Image", name: "overlay_image", widget: "string", required: false}
+          - {label: "Teaser Image", name: "teaser", widget: "string", required: false}
+          - {label: "Caption", name: "caption", widget: "string", required: false}
           - label: Actions
             name: actions
             widget: list
             collapsed: true
             required: false
             fields:
-              - {label: "Label", name: "label", widget: "string"}
-              - {label: "Url", name: "url", widget: "string"}
+              - {label: "Label", name: "label", widget: "string", required: false}
+              - {label: "Url", name: "url", widget: "string", required: false}
       - {label: "Category", name: "category", widget: "list", allow_add: true}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -116,13 +116,13 @@ collections:
         collapsed: true
         required: false
         fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Image", name: "image_path", widget: "string"}
-          - {label: "Alt", name: "alt", widget: "string"}
-          - {label: "Exerpt", name: "excerpt", widget: "text"}
-          - {label: "Url", name: "url", widget: "string"}
-          - {label: "Btn label", name: "btn_label", widget: "string"}
-          - {label: "Btn class", name: "btn_class", widget: "select", options: ["btn--success", "btn--warning", "btn--danger", "btn--info"], default: "btn--success"}
+          - {label: "Title", name: "title", widget: "string", required: false}
+          - {label: "Image", name: "image_path", widget: "string", required: false}
+          - {label: "Alt", name: "alt", widget: "string", required: false}
+          - {label: "Exerpt", name: "excerpt", widget: "text", required: false}
+          - {label: "Url", name: "url", widget: "string", required: false}
+          - {label: "Btn label", name: "btn_label", widget: "string", required: false}
+          - {label: "Btn class", name: "btn_class", widget: "select", options: ["btn--success", "btn--warning", "btn--danger", "btn--info"], default: "btn--success", required: false}
       - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "dd-MM-YYYY", timeFormat: "HH:mm", required: false}
       - label: Gallery
         name: gallery
@@ -130,9 +130,8 @@ collections:
         collapsed: true
         required: false
         fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Alt", name: "alt", widget: "string"}
-          - {label: "Image", name: "image_path", widget: "string"}
-          - {label: "Url", name: "url", widget: "string"}
+          - {label: "Title", name: "title", widget: "string", required: false}
+          - {label: "Alt", name: "alt", widget: "string", required: false}
+          - {label: "Image", name: "image_path", widget: "string", required: false}
+          - {label: "Url", name: "url", widget: "string", required: false}
       - {label: "TOC", name: "toc", widget: "select", options: ["true", "false"], default: "false"}
-
