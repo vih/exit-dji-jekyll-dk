@@ -134,3 +134,5 @@ collections:
           - {label: "Alt", name: "alt", widget: "string"}
           - {label: "Image", name: "image_path", widget: "string"}
           - {label: "Url", name: "url", widget: "string"}
+      - {label: "TOC", name: "toc", widget: "select", options: ["true", "false"], default: "false"}
+
