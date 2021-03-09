@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Illegale hovedkvarter
 permalink: /illegale-hovedkvarter/
 header:
