@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Våben i skoven
 header:
   overlay_color: "#p0W9kDwB"
