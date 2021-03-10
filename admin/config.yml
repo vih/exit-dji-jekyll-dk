@@ -96,6 +96,7 @@ collections:
         collapsed: true
         required: false
         fields:
+          - {label: "Image", name: "image", widget: "string", required: false}
           - {label: "Overlay Image", name: "overlay_image", widget: "string", required: false}
           - {label: "Teaser Image", name: "teaser", widget: "string", required: false}
           - {label: "Caption", name: "caption", widget: "string", required: false}
@@ -107,6 +108,14 @@ collections:
             fields:
               - {label: "Label", name: "label", widget: "string", required: false}
               - {label: "Url", name: "url", widget: "string", required: false}
+          - label: Video
+            name: video
+            widget: object
+            collapsed: true
+            required: false
+            fields:
+              - {label: "Provider", name: "provider", widget: "select", options: ["youtube", "google-drive"], default: "", required: false}
+              - {label: "ID", name: "id", widget: "string", required: false}
       - {label: "Category", name: "category", widget: "list", allow_add: true}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true}
       - {label: "Body", name: "body", widget: "markdown"}
