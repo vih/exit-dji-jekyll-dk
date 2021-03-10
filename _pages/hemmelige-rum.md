@@ -1,17 +1,16 @@
 ---
 last_modified_at: 2021-03-09T09:23:19+01:00
-excerpt: Den oprindelige skolesang på Den Jyske Idrætsskole skrevet i 1949 af
-  William O. Hansen og Karl-Olav Dahlbæk.
 toc: true
-title: Hemmelige rum
+title: Hemmelige rum under Ross Sørensens seng
 permalink: /hemmelige-rum/
 layout: single
 header:
-  overlay_color: "#p0W9kDwB"
-  overlay_image: //images.weserv.nl/?url=https://drive.google.com/uc?id=1-i-QnYpwJvU9SjMASBFL01D1XmvngE-C&w=2000&a=attention
-  teaser: //images.weserv.nl/?url=https://drive.google.com/uc?id=1-i-QnYpwJvU9SjMASBFL01D1XmvngE-C&w=2000&a=attention
-  caption: Hemmelige rum
-category: []
-tags: []
+  video:
+    id: lb_HsCv7goI
+    provider: youtube
+author_profile: true
 ---
-{% include video provider="youtube" id="lb_HsCv7goI" %}
+
+> Det mest interessante var vel nok det hemmelige Rum paa Jomsborg. Det lavede Svend Aage Thomsen en Dag, der kom Meddelelse om, at Gestapo havde fanget en af de Mænd, Skolen havde Kontakt med, saa alt maatte fjernes fra de kendte Gemmesteder. Det blev ved at være hemmelig for alle indtil de sidste Dage i April; men det fandtes under Gulvet med Nedgang under Ross Sørensens Seng, og han har hele Vinteren, uden at vide det, ligget paa store Mængder Sprængstof.
+
+--- <cite>[Thormod Petersen](https://historie.vih.dk/dji-illegale-periode/)</cite>

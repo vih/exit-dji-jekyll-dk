@@ -1,10 +1,10 @@
 {
-  "name": "historie.vih.dk",
+  "name": "exit.vih.dk",
   "version": "1.0.0",
-  "description": "Official site for historie.vih.dk.",
+  "description": "Official site for exit.vih.dk.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/vih/historie.git"
+    "url": "git://github.com/vih/exit-dji-jekyll-dk.git"
   },
   "keywords": [
     "jekyll",
@@ -14,7 +14,7 @@
   "author": "Lars Olesen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vih/historie/issues"
+    "url": "https://github.com/vih/exit-dji-jekyll-dk/issues"
   },
   "dependencies": {
   },

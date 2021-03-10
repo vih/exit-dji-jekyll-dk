@@ -1,15 +1,21 @@
 ---
 layout: single
-title: Om denne side
+title: Om Frihedskæmperne på Den Jyske Idrætsskole
 permalink: /om/
 author_profile: true
 toc: true
-author: lsolesen
 ---
 
-Denne side er oprettet i forbindelse med Vejle Idrætshøjskoles 75 års jubilæum. I den anledning har vi samlet alle arkiverne, som var spredt rundt omkring på højskolen.
-{: .notice}
+Dette spil er udviklet på baggrund af Vejle Idrætshøjskoles Historie. Spillet er udviklet i foråret 2021 af:
 
-## Om sitet
+- Lars Olesen, viceforstander
+- Michelle Møller, unglærer
+- Simon Wonsyld, unglærer
 
-Vejle Idrætshøjskole siger tak til alle, der har bidraget til sitets tilblivelse - og vi håber at sitet i mange år fremover vil være et levende stede at dykke ned i højskolens historie.
+Spillet bruger elementer fra Vejle Stadsarkiv efter aftale.
+
+Spillet er kraftigt inspireret af [Exit-spillene](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=23754&htmlurl=https://www.coolstuff.dk/exit-the-game-escape-room-spil/17924). Hvis du gerne vil spille flere lignende spil.
+
+## Mere om Vejle Idrætshøjskoles Historie
+
+Du kan læse meget mere om Vejle Idrætshøjskole historie på [historie.vih.dk](https://historie.vih.dk).

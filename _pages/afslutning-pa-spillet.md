@@ -1,20 +1,16 @@
 ---
-title: Afslutning på spillet
+title: Tillykke! Danmark er igen frit!
 permalink: /afslutning/
 layout: single
 header:
-  overlay_image: https://drive.google.com/uc?id=0B5v4mAibvkKXc1ZhSmczNW1pLXc
-  teaser: https://drive.google.com/uc?id=0B5v4mAibvkKXc1ZhSmczNW1pLXc
-  caption: Tak for spillet
-feature_row:
-  - btn_class: null
-    title: ""
-    image_path: ""
-    alt: ""
-    excerpt: ""
-    url: ""
-    btn_label: ""
+  image: /assets/images/afslutning.png
+  caption: "Thormod Petersen, Willy Steffensen og andre politifolk foran Den Jyske Idrætsskole efter befrielsen."
 last_modified_at: 2021-03-09T09:58:42+01:00
 toc: false
+author_profile: true
 ---
+Tak fordi du spillede Frihedskæmperne på Den Jyske Idrætsskole. Vi håber, at du nød spillet.
+
+Det ville være rigtig dejligt, hvis alle i gruppen hver for sig vil give lidt feedback til spillet.
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeZDCA_oY0ATlwYzbfEyEsSq8YETTnK9-bXIMed_ldfAOxhMw/viewform?embedded=true" width="640" height="1132" frameborder="0" marginheight="0" marginwidth="0">Indlæser…</iframe>

@@ -5,20 +5,13 @@ permalink: /frem-i-takt/
 author: william_hansen
 composer: karl_olav_dahlbæk
 header:
-  overlay_color: "#p0W9kDwB"
-  overlay_image: &image "//images.weserv.nl/?url=https://drive.google.com/uc?id=1-i-QnYpwJvU9SjMASBFL01D1XmvngE-C&w=2000&a=attention"
-  teaser: *image
-category:
-  - Sange
-  - Officiel skolesang
-  - Årsskrift
-tags:
-  - Årsskrift 1949
+  video:
+    id: 5mrLexcY1b0
+    provider: youtube
 excerpt: "Den oprindelige skolesang på Den Jyske Idrætsskole skrevet i 1949 af William O. Hansen og Karl-Olav Dahlbæk."
 toc: true
+author_profile: true
 ---
-
-{% include video provider="youtube" id="5mrLexcY1b0" %}
 
 ## Teksten
 

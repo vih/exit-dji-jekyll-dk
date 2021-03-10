@@ -1,17 +1,48 @@
 ---
 last_modified_at: 2021-03-09T09:20:16+01:00
-excerpt: Den oprindelige skolesang på Den Jyske Idrætsskole skrevet i 1949 af
-  William O. Hansen og Karl-Olav Dahlbæk.
-title: Jernbanesprængning
+title: Jernbanesprængning ved Tirsbæk
 permalink: /jernbanespraengning/
 layout: single
 header:
-  overlay_color: "#p0W9kDwB"
-  overlay_image: //images.weserv.nl/?url=https://drive.google.com/uc?id=1-i-QnYpwJvU9SjMASBFL01D1XmvngE-C&w=2000&a=attention
-  teaser: //images.weserv.nl/?url=https://drive.google.com/uc?id=1-i-QnYpwJvU9SjMASBFL01D1XmvngE-C&w=2000&a=attention
-  caption: Jernbanesprængning
-category: []
-tags: []
-toc: "false"
+  video:
+    provider: youtube
+    id: zSmj_8kHUb0
+toc: false
+author_profile: true
 ---
-{% include video provider="youtube" id="zSmj_8kHUb0" %}
+
+Billederne i videoen er **ikke** fra jernbanesprængningen ved Tirsbæk, men de er optaget af Svend Aage Thomsen.
+
+Vi kender en del detaljer i forbindelse med sprængningen ved Tirsbæk, da Siegumfeldt har beskrevet overvejelserne i forbindelse med sprængningen relativt detaljeret.
+
+Du behøver ikke læse følgende beretning fra Siegumfeldt for at løse spillet, men du kan jo overveje at gemme siden og læse den senere. Det er ret fascinerende.
+
+***
+
+## Beretning fra Siegumfeldt
+
+Men så en dag fik vi endelig mulighed for at lave en større ødelæggelse. “Onkel” var sammen med sin sekretær, Louise, vandret langs banen ved Tirsbæk og havde opdaget et gennemløb under jernbanedæmningen, omtrent der hvor Selsbjergvej drejer fra Strandvejen. Rørets diameter var stort nok til, at man på alle fire kunne krybe igennem det. Dæm ningen var på dette sted ca. syv meter høj, og han havde beregnet, at en ladning pulverformet trotyl på ca. 400 kg var nok til en sprængning. 
+
+Nogle dage efter ankom de 400 kg til Vejle godsbanegård, hvor en intetanende vognmand hentede det og kørte det ud til Idrætsskolen i Nørreskoven. Her blev det anbragt efter aftale mellem Løfting og forstander Svend Aage Thomsen. Hvorfra det kom, ved jeg ikke. I det hele taget var vor viden meget kalejdoskopisk. Af sikkerhedsgrunde måtte vi jo ikke vide mere end højst nødvendigt. Og i øvrigt var det et stort problem at finde steder, hvor vi kun ne opbevare våben og sprængstoffer, da det var for farligt at have liggende hos private personer. 
+
+“Onkel” gik meget op i denne sprængningsopgave. Sammen med ham og Willy Steffensen tog vi ud i Sønderskoven for at lave en prøvesprængning, idet han ikke var sikker på, at de engelske tændingsmidler virkede på trotyl. Vi benyttede en sort-krudtslunte i dobbelt længde med en detonator i hver ende. Lunten blev bøjet på midten, og her skar man en skal af ind til krudtet. Fordelen var, at man ved at tænde krudtet her, fik antænding af to lunter på én gang og dermed dobbelt sikkerhed for et godt resultat. Det skulle senere vise sig svært at foretage i mørke. Normalt brugte vi en sprængblyant, der havde den fordel, at vi kunne nå at komme hjem i sikkerhed, inden eksplosionen indtraf. Men de var usikre, og “Onkel” havde ikke meget fidus til dem. Prøvesprængningen lykkedes, og nu var alt klar til den endelig aktion, der først måtte udføres, når “Onkel” gav signal. Gennem en kontakt på banegården i Århus fik han besked, når en større troppetransport var på vej, og det var naturligvis vigtigt at sprængningen fandt sted på det rette tidspunkt, dvs. lige før togene passerede. 
+
+Willy Steffensen og jeg tog ud for at rekognoscere forholdene ved Tirsbæk. Gennemløbet var 40 meter langt og næsten tørt. Tæt ved gik en skovsti, som gennem en møllelåge førte over sporene til skoven nord for banen. Vores flugtvej efter sprængningen skulle gå gennem denne skov op til Assendrupvejen, da hjemturen ad Strandvejen ville være for farlig, fordi de tyske patruljer tilkaldt af sprængningen sikkert ville komme her. Antændin gen skulle derfor ske ved den nordlige rørmunding, så vi ikke skulle krydse banelinjen. Problemet var at få de tunge sække med sprængstof bugseret ind til midten af røret. Det blev løst ved, at Willy konstruerede en lille slæde på små hjul og med et 20 meter langt reb i hver ende. Sprængstoffet skulle læsses af ved rørets sydlige munding og kunne så herfra transporteres på slæden ind i røret.
+
+Det var i begyndelsen af august måned, at “Onkel" gav signal til sprængningen. Søncksens gruppe fik besked på at sprænge banen ved Hatting Station. Her skulle de møde en sprængningsekspert fra Arhus. Denne sprængning på 50 kg trotyl skulle finde sted kl. 24, således at de havde mulighed for at nå sikkert hjem inden kl. 24,30, hvor Tirsbæk sprængningen skulle finde sted. Signalet blev givet først på eftermiddagen, så vi havde tid til de sidste forberedelser. Gennem Frank Leo Larsen, der havde kontakt til en modstandsgruppe inden for politiet, lykkedes det politibetjentene Mortensen og Rødkjær-Jensen at "låne” salatfadet under foregivende af, at de skulle hente en spritter i Nørreskoven. Vi kørte til Sandfanget, fik sprængstoffet i bilen og transporteret ind ad skovstien ved Tirsbæk, hvor vi læssede det af lige ved rørmundingen - og efter at have skjult det under ørnebregner kørte vi tilbage, uden at nogen tilsyneladende havde observeret os.
+
+Samme dag havde Willy Schwartz introduceret en ung mand fra Daugård, der var gået under jorden. Han hed Otto Kjær Jensen. Vi blev spurgt, om vi kunne bruge ham, og det kunne vi i høj grad, så vi blev nu en gruppe på i alt fem mand til brug ved Tirsbæk. Foruden Willy og Otto kom Carl Refsing hvilket jo også var naturligt, da det var mig, der og Duus med.
+
+Vi mødtes derude allerede kl. 20, for om muligt at få arbejdet med sprængstoffet gjort færdigt, før de tyske vagtpatruljer kom på bạnen.  Refsing og Duus holdt vagt, medens vi tre andre gjorde ladningen klar. Willy kravlede ind i røret. Jeg læssede sækkene med sprængstof på slæden. Otto i den anden ende trak, og jeg skubbede på, medens Willy stablede dem. Det var drøjt arbejde at få de 350 kg på plads gennem det sand og mudder, der lå i bunden af røret. Kl. 22 var vi færdige uden an-den afbrydelse end nogle sommergæster, der gik  tur, og som ikke så os. Til antændingen brugte vi to forladninger, godt stukket ind mellem sækkene, og som med to 20 meter lange detonerende spræng- snore var forbundet med den dobbelte sortkrudts-lunte i rørmundingen. Den var 90 cm lang, hvilket gav os halvandet minut til at komme væk inden eksplosionen. Lunten lå godt gemt i tørt græs, så der var intet, der røbede, hvad der lå gemt i røret.
+
+Efter endt arbejde trak Willy en madpakke og nogle øller op af sin taske - jeg blev glad for hans betænksomhed, for sjældent har noget smagt mig så godt. Kort efter tog Willy og de to vagter hjem, me - dens Otto og jeg blev tilbage for at udføre selve sprængningen. Det må her indføjes, at vi på ingen måde tænkte på at indlede en ildkamp med tyskerne. Det var vi for uøvede til. Når vi alligevel havde pistoler på os, var det nok mere, fordi det gav os en- vis sikkerhed, selvom pistolerne i mange tilfælde var mere til besvær end til gavn. Vi opførte os som indianere, der listede sig til at udføre opgaverne -jo færre, vi var, jo større var muligheden for ikke blive opdaget.
+
+Når jeg blev tilbage, var det, fordi “Onkel” havde bedt mig om personligt at tænde ladningen – for havde ansvaret. Jeg holdt Otto tilbage, fordi han kendte ikke de andre og kunne derfor ikke røbe dem, hvis han blev taget. Otto og jeg gik nu gennem skoven op til Assendrupvejen for at indprente os flugtvejen. Her lagde vi cyklerne og ventede til klokken var godt tolv, hvorefter vi listede gennem skoven ned mod banen. Det var bælgmørkt, og da vi kunne høre knaset fra patruljerne, der marcherede på banelegemet, spurgte Otto, om ikke det blev for farligt. Jeg sagde, at han godt måtte vende om, så ville jeg selv forsøge at udløse sprængningen. Han var ung, vel omkring 17 år, lille og spinkel og han var bange, men skød dog hjertet op i livet og fulgte tappert med. Også jeg var bange, ikke så meget for patruljerne, som man kunne se og høre, men mere for om der stod vagtposter i skovkanten – det turde jeg dog ikke sige til Otto. 
+
+Vi ventede til en patrulje var gået forbi, hvorefter jeg kravlede ned til lunten, medens Otto stod og holdt udkig. Det viste sig at være svært at antænde lunten i mørket, fordi man skulle ramme den lille plet sortkrudt i det øjeblik, svovlet på tændstikken blev antændt, og jeg bandede over “Onkel”, der havde vist mig denne sikre men besværlig metode. Jeg prøvede tre gange, og hver gang lyste flammen op i mørket. Jeg glemmer aldrig synet af Otto, der stod der oppe på kanten og viftede med sin store "seks-personers” Colt - en sådan en havde han aldrig haft i hånden før - medens han blev ved med at sige: “Skynd dig dog, for fanden mand, nu kommer de; skynd dig dog, for saten, nu kommer de.” 
+
+Endelig fik jeg krudtet antændt, og nu gjorde vi noget, som jeg godt vidste, man ikke måtte. I stedet for at forsvinde stille og roligt – vi havde jo haly andet minut – styrtede vi af sted som et par for skræmte kaniner op ad skrænten og ind i skoven, hvor vi ikke kunne se en hånd for os. Jeg vidste, at vi på et tidspunkt skulle dreje af til højre, men jeg blev urolig, fordi stien, vi drejede ind på, gik ned ad. Vi var løbet parallelt med banen, og pludselig befandt vi os i bunden af lavningen, hvor lunten lå og osede. Vi styrtede af sted vinkelret på stien gennem brombær og brændenælder, og et øjeblik efter lød det enorme brag. Vi kastede os instinktivt ned og dækkede vore hoveder. Efter braget lød der en underlig susen, som jeg ikke forstod - det viste sig senere at være nedfaldet af de mange skærver og granitstykker, der var slynget op i luften. Heldigvis blev vi ikke ramt og fortsatte nu mere roligt opad til vi kunne overse hele sceneriet: Neden for os slyngede banen sig som et lysende bånd mellem træer ne, og på den anden side glimtede lysene fra Tirsbæk - det virkede dejligt beroligende at se herregården ligge der så stille og uanfægtet midt i natten. 
+
+Pludselig hørte vi lyden af et tog, der nærmede sig, og vi tænkte, at nu skete den helt store katastrofe. Det var et af de umådeligt lange tyske tog, der kom brusende - men vagtpatruljerne skød deres geværer af og viftede med lommetørklæder, og det lykkedes dem at standse toget, der med hjulene skrigende mod skinnerne standsede lige før krateret. Vi stod stille og var helt fascinerede af dette skuespil, indtil soldaterne myldrede ud af toget. “De har hunde med”, sagde Otto, og så løb vi videre. Lidt efter fik Otto sting i siden; jeg prøvede at hanke op i ham, men han bad mig løbe videre; han skulle nok komme. Jeg løb lidt igen og ventede. Men han kom ikke. Jeg tænkte, at han var løbet en anden vej. Da jeg nåede cyklerne, ventede jeg igen, men turde så ikke blive der længere og kørte mod Vejle. Jeg kom uset forbi nogle grupper tyske soldater, der åbenbart var på natmanøvre, og først da jeg nåede Vejle Nørreskov, var jeg på hjemmebane og følte mig sikker. Jeg meldte mig tilbage til Willy, der boede i kanten af skoven. Det var en fast regel, at vi altid meldte os tilbage, så vore kammerater kunne være sikre på, at vi ikke var taget. Otto dukkede først op næste dag. Han havde gemt sig i en grøft ved at skrabe blade over sig. Han så snavset og ynkelig ud. Han var faldet i søvn, sagde han, og pistolen havde han tabt. Jeg tror faktisk, at han havde gemt sig, fordi han var bange for at komme ud på vejen i mørke. Han skulle videre, og jeg gav har min frakke, fordi han frøs. 
+
+Søncksens gruppe kom ikke i aktion. Der var for mange tyskere. På vejen hjem var de lige nået til Horsensbakken mod Vejle, da braget lød fra Tirsbæk. 
