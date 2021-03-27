@@ -30,8 +30,8 @@ slug:
   sanitize_replacement: "-"
 
 collections:
-  - label: "Pages"
-    name: "pages"
+  - label: "Forside"
+    name: "files"
     files:
       - label: "Forsiden"
         name: "index"
