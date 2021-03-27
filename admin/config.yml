@@ -30,8 +30,10 @@ slug:
   sanitize_replacement: "-"
 
 collections:
-  - label: "Forside"
-    name: "files"
+  - label: "Site options"
+    name: "settings"
+    editor:
+      preview: false
     files:
       - label: "Forsiden"
         name: "index"
@@ -90,6 +92,17 @@ collections:
               - {label: "Alt", name: "alt", widget: "string", required: false}
               - {label: "Image", name: "image_path", widget: "string", required: false}
               - {label: "Url", name: "url", widget: "string", required: false}
+      - label: "Navigation Menu"
+        name: nav
+        file: "_data/navigation.yml"
+        fields:
+          - label: "Nav Items"
+            label_singular: "Nav Item"
+            name: main
+            widget: list
+            fields:
+              - {label: "Display Text", name: title, widget: string}
+              - {label: URL, name: url, widget: string}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Sider" # Used in the UI
     folder: "_pages/" # The path to the folder where the documents are stored
