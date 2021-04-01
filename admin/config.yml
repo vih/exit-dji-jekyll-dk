@@ -17,7 +17,7 @@ site_url: https://exit.vih.dk
 display_url: https://exit.vih.dk
 logo_url: https://exit.vih.dk/android-chrome-192x192.png
 
-show_preview_links: false
+show_preview_links: true
 
 editor:
   preview: false
@@ -108,6 +108,7 @@ collections:
     folder: "_pages/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    preview_path: "{{permalink}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
