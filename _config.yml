@@ -67,7 +67,7 @@ social:
     - "https://www.instagram.com/vihdk"
 
 # Site search
-search: true
+search: false
 
 
 # Analytics
