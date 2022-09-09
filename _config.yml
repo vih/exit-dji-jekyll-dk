@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "mmistakes/minimal-mistakes@4.22.0"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Jekyll specific
@@ -97,7 +97,7 @@ footer:
 # Site Author
 author:
   name             : "Frihedskæmperne"
-  avatar           : "/assets/images/authors/vih-logo.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/authors/vih-logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Historien er skrevet af frihedskæmperne i 1944 og 1945. Begivenhederne er oversat til et spil af Lars Olesen, Michelle Møller og Simon Wonsyld i 2021."
   location         : "Vejle"
   links            :
