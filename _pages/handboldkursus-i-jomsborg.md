@@ -8,6 +8,7 @@ header:
     provider: youtube
 last_modified_at: 2021-03-09T09:27:41+01:00
 author_profile: true
+sitemap: false
 ---
 
 Jomsborg blev omdannet til Instruktionssted for de fleste af »Radiserne« i Vejle, og saa godt som hver Aften var der her Instruktion under Denckers Ledelse.

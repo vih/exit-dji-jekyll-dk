@@ -9,4 +9,5 @@ header:
     provider: youtube
     id: SDDhCFkf1Y0
 author_profile: true
+sitemap: false
 ---
