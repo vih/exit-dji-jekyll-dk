@@ -8,16 +8,13 @@
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
-# Jekyll specific
-future: true
-
 # Site Settings
 locale                   : "da"
 title                    : "Frihedskæmperne fra Den Jyske Idrætsskole"
 title_separator          : "-"
 name                     : "Vejle Idrætshøjskole"
 description              : "Exit"
-url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://exit.vih.dk/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vih/exit-dji-jekyll-dk" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -86,9 +83,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://www.facebook.com/vihdk"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/vih/historie"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/vihdk"
